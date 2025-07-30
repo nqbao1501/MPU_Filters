@@ -1,0 +1,7 @@
+../Core/Src/mpu6050.c:8:6:MPU6050_Init	1
+../Core/Src/mpu6050.c:24:6:MPU6050_Start_DMA	1
+../Core/Src/mpu6050.c:28:6:MPU6050_Process_DMA	1
+../Core/Src/mpu6050.c:52:19:MPU6050_ReadAcc	2
+../Core/Src/mpu6050.c:77:19:MPU6050_ReadRegister	1
+../Core/Src/mpu6050.c:80:19:MPU6050_ReadRegisters	1
+../Core/Src/mpu6050.c:83:19:MPU6050_WriteRegister	1
